@@ -1,1 +1,2 @@
-# Algoritimo de sorteio desenvolvido por mim
+# Sorteios
+Algoritmo de sorteio desenvolvido por mim
